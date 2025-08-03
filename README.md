@@ -37,9 +37,6 @@ pip (Python package installer)
 
 Installation
 bash
-# Clone the repository
-git clone https://github.com/sadhakcuj/ANOMALY-BASED-DETECTION-USING-AI.git
-cd ANOMALY-BASED-DETECTION-USING-AI
 
 # (Optional) Create a virtual environment
 python -m venv env
